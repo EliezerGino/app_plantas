@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:plant_app/components/home/components/featuredPants.dart';
 import 'package:plant_app/constants.dart';
+import 'package:plant_app/screens/home/components/featuredPants.dart';
 import 'header_with_searchbox.dart';
 import 'recomend_plants.dart';
 import 'title_with_more_btn.dart';
