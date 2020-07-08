@@ -2,6 +2,6 @@
 
 App de Plantas
 
-## Getting Started
+## Screenshot
 
-![Screenshot](assets/frames/Screenshot.png)
+![Screenshot](assets/frames/Screenshot.png =720x1080)
