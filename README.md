@@ -4,4 +4,7 @@ App de Plantas
 
 ## Screenshot
 
-![Screenshot](assets/frames/Screenshot.png){height="50%" width="50%"}
+
+<div style="width:150px; height:100px">
+![Screenshot](assets/frames/Screenshot.png)
+</div>
