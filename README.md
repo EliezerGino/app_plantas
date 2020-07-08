@@ -4,4 +4,4 @@ App de Plantas
 
 ## Screenshot
 
-![Screenshot](assets/frames/Screenshot.png =720x1080)
+![Screenshot](assets/frames/Screenshot.png =720x)
